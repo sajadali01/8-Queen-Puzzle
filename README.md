@@ -10,9 +10,11 @@ Each Player have 3 chances to make a mistake (If one place in attack of some oth
 
 - # Losing Result
     ![Failure](./assests/Failure1.JPG)
+    
     **Here error message represents the remaining chances of player to make an mistake (To Place a queen at attacking posistion)**
 
     ![Loss](./assests/Loss.JPG)
+    
     **Above is Final Result when a player losses**
 
 ## Installation and Run
@@ -21,7 +23,7 @@ Each Player have 3 chances to make a mistake (If one place in attack of some oth
 
     https://github.com/sajadali01/8-Queen-Puzzle.git
 
-    2. Install Python Constraint Using **(pip install python-constraint)** then import everything for ease **(from constraint import *)**
+    2. Install Python Constraint Using (pip install python-constraint) then import everything for ease (from constraint import *)
 
     3. Use Google collab for download above things or vs-code, but for vs code use make sure you also have installed with (Jupyter Notebook).
 

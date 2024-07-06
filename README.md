@@ -1,4 +1,4 @@
-# 8-Queen-Puzzle
+# 8-Queen-Puzzle (CSP)
 
 This Game project is made on python using **Pygame (GUI Library)**. The concept of game is that player have to place 8-Queens with no attacking queens, **_(A queen will attack another queen if it is placed in either row,column,up-diagonals or down-diagonals)_**, this game is made using **(Constraint Satisfaction Problem)** where the constraints are being defined when a user places it's queen so constraints are defined according to Queen Placement. 
 
